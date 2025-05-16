@@ -134,35 +134,35 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Author
+Name=Schema_Designer
 Value=daniw
 
 [Parameter2]
-Name=Index_Main
-Value=A
-
-[Parameter3]
-Name=Index_Sub
-Value=A
-
-[Parameter4]
-Name=Layout_Designer
-Value=daniw
-
-[Parameter5]
-Name=PCB_NAME
-Value=TI1-1
-
-[Parameter6]
-Name=Project
-Value=Inspection - IMD Tester
-
-[Parameter7]
 Name=Project_URL
 Value=https://github.com/Formula-Student-Switzerland/imd-tester
 
+[Parameter3]
+Name=Project
+Value=Inspection - IMD Tester
+
+[Parameter4]
+Name=PCB_NAME
+Value=TI1-1
+
+[Parameter5]
+Name=Layout_Designer
+Value=daniw
+
+[Parameter6]
+Name=Index_Sub
+Value=A
+
+[Parameter7]
+Name=Index_Main
+Value=B
+
 [Parameter8]
-Name=Schema_Designer
+Name=Author
 Value=daniw
 
 [Configuration1]
